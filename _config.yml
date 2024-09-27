@@ -1,7 +1,7 @@
 title: My GitHub Pages Site
 description: A simple description of my site.
 theme: jekyll-theme-primer  # You can change this to any theme you like
-baseurl: ""  # Leave empty if you're using the root of the repository
+baseurl: "my_repo2"  # Leave empty if you're using the root of the repository
 url: "https://<username>.github.io/<repository-name>"  # Replace with your GitHub username and repository name
 markdown: kramdown
 plugins:
